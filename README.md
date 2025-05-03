@@ -1,4 +1,4 @@
-# section_1
+# my_app
 
 A new Flutter project.
 
