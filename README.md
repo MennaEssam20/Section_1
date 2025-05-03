@@ -85,3 +85,6 @@ The ProfilePage lets users select an image from either their camera or gallery, 
 
 📌 FirstScreen
 Acts as the initial entry point, handling navigation and state management efficiently.
+
+
+[UI](https://github.com/user-attachments/assets/ca37eed7-5063-43f3-acf9-7ec49f128a33)
